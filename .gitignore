@@ -2,5 +2,8 @@
 **/*.ipynb_checkpoint
 *.ipynb_checkpoint
 
+#Python
+**/__pycache__/
+
 #Datos
 */data/
