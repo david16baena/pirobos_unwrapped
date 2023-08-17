@@ -1,0 +1,6 @@
+#Notebooks
+**/*.ipynb_checkpoint
+*.ipynb_checkpoint
+
+#Datos
+*/data/
